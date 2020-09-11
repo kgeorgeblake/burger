@@ -1,0 +1,42 @@
+body {
+    background-color: lightblue;
+    margin: auto;
+    width: 60%;
+    border: 3px solid #2f21ad;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  .jumbotron {
+    margin: auto;
+    width: 60%;
+    border: 3px solid #2f21ad;
+    padding: 10px;
+  }
+
+.fontz {
+    font-size: 26px; font-weight: 300; color: #0f0870; margin: 0 0 24px; 
+
+}
+
+
+li {
+    padding: 5px;
+    margin: 5px;
+    background: #ad8925;
+  }
+  
+  .label {
+    font-weight: bold;
+  }
+  
+  .create-update-form {
+    padding: 5px;
+    margin: 5px;
+    background: aqua;
+  }
+  
+  .form-group {
+    margin-bottom: 5px;
+  }
+  
